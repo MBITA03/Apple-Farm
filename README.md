@@ -26,10 +26,11 @@ Apple-Farm is a web application that allows users to manage their products. User
     ```sh
     npm install  # or the appropriate command for your project
     ```
-4. Set up the database:
-    ```sh
-    # Provide instructions for setting up the database
-    ```
+4. Set up the MySQL database:
+    1. Install MySQL server and client.
+    2. Create a new database:
+    3. Configure your application to connect to the MySQL database by updating the database configuration file with your database credentials.
+
 5. Start the application:
     ```sh
     npm start  # or the appropriate command for your project
